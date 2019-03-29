@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp">
+
+        <RadioButton
+            android:text="@string/_501"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:padding="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginBottom="8dp"
+            android:buttonTint="@color/colorPrimaryDark"
+            tools:targetApi="lollipop" />
+
+        <RadioButton
+            android:text="@string/_701"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:padding="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginBottom="8dp"
+            android:buttonTint="@color/colorPrimaryDark"
+            tools:targetApi="lollipop" />
+
+        <RadioButton
+            android:text="@string/_1001"
+            android:textSize="16sp"
+            android:textStyle="italic"
+            android:padding="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_marginBottom="8dp"
+            android:buttonTint="@color/colorPrimaryDark"
+            tools:targetApi="lollipop" />
+    </RadioGroup>
+
+</RelativeLayout>

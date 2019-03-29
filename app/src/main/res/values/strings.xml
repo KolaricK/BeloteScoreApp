@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Belot</string>
+    <string name="team_a">Team A</string>
+    <string name="zero">0</string>
+    <string name="team_b">Team B</string>
+    <string name="games">games won</string>
+    <string name="new_game">New game</string>
+    <string name="exit_title">Exit app!</string>
+    <string name="about_title">About us</string>
+    <string name="enter_score_for_team_a">Enter score for team A!</string>
+    <string name="enter_score_for_team_b">Enter score for team B!</string>
+    <string name="add_score_to_current_game">Add score to current game</string>
+    <string name="about_us">About us</string>
+    <string name="exit_app">Exit app</string>
+    <string name="_140">140</string>
+    <string name="first_to">First to</string>
+    <string name="win_condition">Win condition</string>
+    <string name="restart">Restart game</string>
+    <string name="select_win_condition">Select win condition:</string>
+    <string name="_501">501</string>
+    <string name="_701">701</string>
+    <string name="_1001">1001</string>
+</resources>
